@@ -73,7 +73,7 @@ module.exports = {
       delete obj.password;
       return obj;
     }
-  }//fn attributes
+  },//fn attributes
 
 
    // Here we encrypt password before creating a User
